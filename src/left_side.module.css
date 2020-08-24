@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
+body{
+   font-family: 'Baloo Tamma 2', cursive;
+}
+
+
+.leftMainContainer{
+    padding: 2%;
+    width: 30%;
+}
+
+.imgContainer {
+    width: 110px;
+}
+.wholeImage{
+    width: 100%;
+    border-radius: 50%;
+    margin-left: 32px;
+
+}
+.userInfoContainer{
+    width: 35%;
+    text-align: center;
+}
+.userEmail{
+    color:#ccc;
+    font-weight: 500;
+}
+
+.mainMenuContainer{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.mainMenuItems{
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.menuIcons{
+    color: #ccc;
+    font-weight: 500;
+    margin-right: 20px;
+}
+/* .myMusicContainer{
+    color: #ccc;
+} */
+.myMusic{
+    margin-bottom: 30px;
+}
+

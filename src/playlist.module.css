@@ -1,0 +1,44 @@
+.playlistContainer{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.songDetail{
+    display: flex;
+    align-items: center;
+}
+.songsList{
+    margin-left: 20px;
+}
+.songThumbnail{
+    width: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mostPopular{
+    margin-bottom: 0;
+}
+
+.totalSongs{
+    margin-top: 0;
+    margin-bottom: 30px;
+
+}
+
+.thumbNailSong{
+    width: 100%;
+}
+.menuIcons{
+    color: #cccccc;
+    margin-right: 50px;
+}
+.songSinger{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.songTime{
+    margin-right: 50px;
+}
+.redIcon{
+    color: red;
+}

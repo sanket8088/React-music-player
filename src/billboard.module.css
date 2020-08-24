@@ -1,0 +1,20 @@
+.billboardContainer{
+    margin-left: 30px;
+}
+
+.albumContainer{
+    display: flex
+}
+
+.singleCover{
+    width: 200px;
+    border-radius: 20px;
+}
+.singleAlbum{
+    margin-right: 70px;
+    
+}
+.SingerName{
+    color: #A9A9A9;
+    margin-top: 0;
+}

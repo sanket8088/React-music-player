@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
+
+.headerFull{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    align-items: center;
+}
+
+.searchBoxContainer{
+    border: 1px solid grey;
+    padding: 4px 16px;
+    width: 395px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 1px #ccc;
+}
+.menuIcons{
+    color: #cccccc;
+    font-size: 24px;
+}
+.searchBox{
+    border: none;
+    outline: none;
+    margin-left: 5px;
+}
+.headerIcon{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.upgradePlan{
+    padding: 6%;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    font-family: 'Baloo Tamma 2', cursive;
+    color: white;
+}
+
+
